@@ -11,8 +11,6 @@ This repository contains a machine learning model for predicting E1 genes using 
 
 ## 📂 Project Structure
 
-
-.
 ├── data/
 │   ├── raw/
 │   └── processed/
