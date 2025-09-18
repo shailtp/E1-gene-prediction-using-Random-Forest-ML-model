@@ -11,6 +11,7 @@ This repository contains a machine learning model for predicting E1 genes using 
 
 ## 📂 Project Structure
 
+.
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -19,13 +20,14 @@ This repository contains a machine learning model for predicting E1 genes using 
 │   ├── 02_model_training.ipynb
 │   └── 03_model_evaluation.ipynb
 ├── src/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── data_processing.py
 │   ├── model.py
 │   └── utils.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 * `data/`: Contains raw and processed gene expression data.
 * `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
@@ -98,4 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ❓ Support
 
 If you have any questions or encounter any issues, please feel free to open an issue in the repository.
+
 
